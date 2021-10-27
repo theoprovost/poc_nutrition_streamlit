@@ -1,0 +1,16 @@
+button {
+    width: 100% !important;
+}
+
+div[data-testid="metric-container"] {
+    text-align: center !important;
+}
+
+div[data-testid="stText"] {
+    overflow-wrap: break-word !important;
+}
+
+iframe {
+    max-width: 100% !important;
+    border: 1px solid red !important;
+}
